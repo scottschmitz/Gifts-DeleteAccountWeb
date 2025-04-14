@@ -7,11 +7,11 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Gifts Account Support</title>
+        <title>WishyWanty Account Support</title>
         <meta
           name='description'
           content={`
-          Account deletion request process for the Gifts app.`}
+          Account deletion request process for the WishyWanty app.`}
         />
         <meta name='viewport' content='width=device-width, initial-scale=1' />
         <link rel='icon' href='/favicon.ico' />
