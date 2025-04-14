@@ -33,7 +33,7 @@ export default function AccountDeletionForm() {
     <div className='grid items-center gap-4 px-4 py-6 mx-auto max-w-sm rounded-lg border border-gray-200 bg-gray-50 dark:border-gray-800 dark:bg-gray-900'>
       <p className='text-sm text-gray-500 dark:text-gray-400'>
         We need your email address to verify your identity when submitting a
-        request to delete your Gifts account. We will reach out to you
+        request to delete your WishyWanty account. We will reach out to you
         at this email address to confirm your request. When your account is
         deleted, all information associated with your account will be deleted
         including the following:
